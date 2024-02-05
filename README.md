@@ -1,5 +1,10 @@
 #  News App 
 
+## Demo
+
+![Screenshot (531)](https://github.com/yogeshNavghane67/news-app/assets/124075039/45366495-f3c0-40a4-854a-6fbae5b21698)
+
+
 ## Description
 
 The React News App is a web application built with React JS and Bootstrap that allows users to stay updated with the latest news. It provides a user-friendly interface to browse and read news articles from various sources. The app fetches real-time data using a news API, making it a reliable source for current news.
